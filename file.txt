@@ -1,0 +1,5 @@
+PHP - PHP Hypertext PreProcessor
+XML - Extension MarkUp Language
+JSON - JavaScript Object Notation
+CSS - Cascading Style Sheet
+HTM - Hypertext MarkUp Language
